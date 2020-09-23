@@ -1,0 +1,57 @@
+.nav p{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    font-size: 24px;
+    font-style: normal;
+    line-height: 25,18px;
+    letter-spacing: -8%;
+    color: #333333;
+}
+
+.title p{
+    font-family: 'Space Mono', monospace;
+    font-weight: 700;
+    font-size: 64px;
+    font-style: normal;
+    line-height: 94,78px;
+    letter-spacing: -3,5%;
+    color: #333333;
+}
+
+.paragraph p{
+    font-family: 'Space Mono', monospace;
+    font-weight: 400;
+    font-size: 24px;
+    font-style: normal;
+    line-height: 35,54px;
+    letter-spacing: -3,5%;
+    color: #4f4f4f;
+}
+
+.footer p{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    font-size: 14px;
+    font-style: normal;
+    line-height: 17,07px;
+    letter-spacing: -3,5%;
+    color: #333333;
+}
+
+
+
+.button button{
+    font-family: 'Space Mono', monospace;
+    font-weight: 700;
+    font-size: 14px;
+    font-style: normal;
+    line-height: 20,73px;
+    letter-spacing: -3,5%;
+    color: #ffffff;
+    position: absolute;
+    width: 216px;
+    height: 68px;
+    left: 740px;
+    top: 663px;
+    background: #333333;
+}
